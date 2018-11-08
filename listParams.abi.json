@@ -1,0 +1,20 @@
+{
+    "CompilerVersion": "1.0.2",
+    "hash": "018aaa2cf8087f6e14c1d394986e95ea799e27fa",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "checkList",
+            "parameters": [
+                {
+                    "name": "numberList",
+                    "type": ""
+                },
+                {
+                    "name": "accountList",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

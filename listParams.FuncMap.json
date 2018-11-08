@@ -1,0 +1,96 @@
+{
+    "Functions": [
+        {
+            "Method": "checkList",
+            "VarMap": {
+                "numberList": 0,
+                "accountList": 1,
+                "NUM_LIST_KEY": 2,
+                "ACCOUNT_LIST_KEY": 3,
+                "numberListInfo": 4,
+                "accountListInfo": 5,
+                "numberListInfo1": 6,
+                "numberList1": 7,
+                "accountListInfo1": 8,
+                "accountList1": 9
+            }
+        },
+        {
+            "Method": "Main",
+            "VarMap": {
+                "operation": 0,
+                "args": 1,
+                "numberList": 2,
+                "accountList": 3
+            }
+        },
+        {
+            "Method": "Delete",
+            "VarMap": {
+                "context": 0,
+                "key": 1
+            }
+        },
+        {
+            "Method": "Put",
+            "VarMap": {
+                "context": 0,
+                "key": 1,
+                "value": 2
+            }
+        },
+        {
+            "Method": "Get",
+            "VarMap": {
+                "context": 0,
+                "key": 1
+            }
+        },
+        {
+            "Method": "GetReadOnlyContext",
+            "VarMap": {}
+        },
+        {
+            "Method": "GetContext",
+            "VarMap": {}
+        },
+        {
+            "Method": "Deserialize",
+            "VarMap": {
+                "item": 0
+            }
+        },
+        {
+            "Method": "Serialize",
+            "VarMap": {
+                "item": 0
+            }
+        },
+        {
+            "Method": "GetTime",
+            "VarMap": {}
+        },
+        {
+            "Method": "Notify",
+            "VarMap": {
+                "arg": 0
+            }
+        },
+        {
+            "Method": "Log",
+            "VarMap": {
+                "message": 0
+            }
+        },
+        {
+            "Method": "CheckWitness",
+            "VarMap": {
+                "hash_or_pubkey": 0
+            }
+        },
+        {
+            "Method": "GetTrigger",
+            "VarMap": {}
+        }
+    ]
+}
